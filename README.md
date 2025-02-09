@@ -5,24 +5,24 @@ A simple web-based calculator for adding two numbers.
 🔗 https://000eclair.github.io/calculator-app/
 
 📌 Features
-    Add two numbers
-    Clear input fields
-    Simple and clean design
+Add two numbers
+Clear input fields
+Simple and clean design
 
 📂 Project Files
-    index.html – Main HTML file
-    style.css – Stylesheet
-    app.js – JavaScript for functionality
+index.html – Main HTML file
+style.css – Stylesheet
+app.js – JavaScript for functionality
 
 🚀 How to Use
-    Enter two numbers.
-    Click Add to see the result.
-    Click Clear to reset fields.
+Enter two numbers.
+Click Add to see the result.
+Click Clear to reset fields.
 
 📢 Deployment
-    Hosted on GitHub Pages at Calculator App.
+Hosted on GitHub Pages at Calculator App.
 
 📖 Learnings & Challenges
-    Learned how to deploy a web app using GitHub Pagess
-    Faced issues with window.close() not working in all browsers.
-    Practiced creating a responsive design using CSS.
+Learned how to deploy a web app using GitHub Pages.
+Faced issues with window.close() not working in all browsers.
+Practiced creating a responsive design using CSS.g a responsive design using CSS.
