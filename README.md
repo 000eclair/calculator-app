@@ -1,16 +1,28 @@
-Calculator App
+Basic Calculator
+A simple web-based calculator for adding two numbers.
 
-A simple calculator web app that allows users to add two numbers.
+🚀 Live Demo
+🔗 https://000eclair.github.io/calculator-app/
 
-Features
-- Add two numbers
-- Clear input fields
-- Simple UI with responsive design
+📌 Features
+    Add two numbers
+    Clear input fields
+    Simple and clean design
 
-Deployment
-Live demo: https://000eclair.github.io/calculator-app/
+📂 Project Files
+    index.html – Main HTML file
+    style.css – Stylesheet
+    app.js – JavaScript for functionality
 
-Learning & Challenges
-- Learned how to use JavaScript for DOM manipulation
-- Practiced CSS styling for a clean UI
-- Explored deployment using GitHub Pages
+🚀 How to Use
+    Enter two numbers.
+    Click Add to see the result.
+    Click Clear to reset fields.
+
+📢 Deployment
+    Hosted on GitHub Pages at Calculator App.
+
+📖 Learnings & Challenges
+    Learned how to deploy a web app using GitHub Pagess
+    Faced issues with window.close() not working in all browsers.
+    Practiced creating a responsive design using CSS.
