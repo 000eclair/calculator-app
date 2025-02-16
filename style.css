@@ -5,14 +5,14 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f8cff8;
+    background-color: #f9dff3;
 }
 
 .container {
-    border: 1px solid hwb(0 100% 0%);
+    border: 1px solid hwb(314 92% 3%);
     border-radius: 4px;
     padding: 20px;
-    background-color: white;
+    background-color: rgb(247, 235, 244);
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
@@ -20,7 +20,7 @@ body {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 15px;
-    color: #333;
+    color: #f993e1;
 }
 
 .input-group {
